@@ -1,0 +1,13 @@
+label {
+  text-align: left;
+}
+.sign {
+  border: solid 2px rgb(169, 214, 232);
+  width: 50%;
+  padding: 10px;
+}
+.login {
+  border: solid 2px rgb(169, 214, 232);
+  width: 50%;
+  min-height: auto;
+}

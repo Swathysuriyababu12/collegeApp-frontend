@@ -1,0 +1,19 @@
+.renderPage {
+  display: flex;
+  margin: 2%;
+  padding: 60px;
+  border: solid rgb(166, 217, 247);
+  align-content: center;
+}
+.header {
+  text-align: center;
+}
+.mentor {
+  display: center;
+  margin: 2%;
+  margin-right: 2%;
+  padding: 60px;
+  border: solid rgb(166, 217, 247);
+  align-content: center;
+  width: 100%;
+}

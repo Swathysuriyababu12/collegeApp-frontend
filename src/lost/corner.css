@@ -1,0 +1,13 @@
+.student {
+  border: solid 2px rgb(169, 214, 232);
+  width: 50%;
+  min-height: auto;
+  align-self: stretch;
+  margin: 10%;
+  padding: 5%;
+}
+.sign {
+  border: solid 2px rgb(169, 214, 232);
+  width: 50%;
+  padding: 10px;
+}
